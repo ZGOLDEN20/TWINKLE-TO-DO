@@ -1,0 +1,24 @@
+﻿@model TWINKLE_TO_DO.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    ViewData["BodyClass"] = "login";
+    Layout = "_AuthLayout";
+}
+
+<form asp-action="Login" asp-controller="Home" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" type="email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <label asp-for="Password">Password</label>
+    <input asp-for="Password" type="password" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+
+    <button type="submit">Log In</button>
+</form>
+
+<div class="sign_up">
+    <p>Don't have an account? <a asp-action="Register" asp-controller="Home">Register</a></p>
+</div>

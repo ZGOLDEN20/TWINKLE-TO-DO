@@ -1,0 +1,466 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Josefin Sans", serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.login {
+  background-color: #d87093;
+}
+
+.logo {
+  padding: 40px;
+}
+
+.login .logo {
+  color: #fff;
+}
+
+.form {
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.sign_up {
+  padding: 40px;
+  text-align: center;
+}
+
+form {
+  padding: 40px;
+  width: 600px;
+}
+
+input,
+label,
+textarea {
+  width: 100%;
+  margin: 10px 0;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #d87093;
+  outline: none;
+}
+
+button {
+  border: none;
+  color: #fff;
+  background-color: #d87093;
+  padding: 10px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  padding: 9px 29px;
+  border: 1px solid #d87093;
+  color: #d87093;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #d87093;
+}
+
+a:hover {
+  color: #974e76;
+}
+
+h2 {
+  padding: 20px 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+.card {
+  padding: 15px;
+  width: 350px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.7);
+  user-select: none;
+  color: #000;
+}
+
+.cover-photo {
+  position: relative;
+  background: url("../images/todo.jpg");
+  background-size: cover;
+  height: 180px;
+  border-radius: 5px 5px 0 0;
+}
+
+.profile {
+  position: absolute;
+  width: 120px;
+  bottom: -60px;
+  left: 15px;
+  border-radius: 50%;
+  border: 2px solid #333;
+  padding: 5px;
+}
+
+.profile-name {
+  font-size: 20px;
+  margin: 25px 0 0 120px;
+}
+
+.about {
+  margin-top: 30px;
+  line-height: 1.6;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.icons i {
+  cursor: pointer;
+  padding: 15px;
+  font-size: 20px;
+  transition: 0.2s;
+  color: #d87093;
+}
+
+.icons i:hover {
+  color: #974e76;
+}
+
+.tasks {
+  width: 800px;
+  margin: 20px;
+}
+
+.task-card {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d87093;
+  border: 1px solid #974e76;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  align-items: center;
+}
+
+.single-task {
+  display: flex;
+  align-items: center;
+}
+
+.single-task form {
+  margin-right: 5px;
+}
+
+.single-task input[type="checkbox"] {
+  margin: 0;
+  transform: scale(1.2);
+}
+
+.single-task p {
+  color: #fff;
+  margin: 0;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.action-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.action-buttons a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.action-buttons i {
+  margin-right: 5px;
+}
+
+.action-buttons {
+  padding: 5px;
+}
+
+.action-buttons i {
+  color: #fff;
+  padding: 0 10px;
+}
+
+.add-task {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #d87093;
+  font-size: 40px;
+}
+
+.header {
+  padding: 40px;
+}
+
+.task-card input {
+  width: 10px;
+}
+
+.single-task {
+  display: flex;
+}
+
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d87093;
+  color: #fff;
+  padding: 20px;
+}
+
+.welcome-bar {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  gap: 15px;
+}
+
+.welcome-bar img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.welcome-bar h3 {
+  padding: 7px;
+}
+
+.welcome-bar a {
+  background-color: #fff;
+  color: #d87093;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.welcome-bar a:hover {
+  background: none;
+  border: 1px solid #fff;
+  padding: 9px 19px;
+  color: #fff;
+}
+
+.search-container {
+  display: flex;
+}
+
+input#search-bar {
+  margin: 0 auto;
+  width: 100%;
+  outline: none;
+}
+
+.search-container i {
+  font-size: 25px;
+}
+
+.dashboard-cards {
+  display: flex;
+}
+
+.dashboard-cards a .card {
+  padding: 40px;
+  margin: 0 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: #d87093;
+  color: #fff;
+}
+
+.dashboard-cards a .card:hover {
+  background-color: #974e76;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.card i,
+.card p {
+  padding: 10px;
+}
+
+.card i {
+  font-size: 20px;
+}
+
+input[type="checkbox"] {
+  accent-color: #974e76;
+}
+
+#viewport {
+  padding-left: 250px;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#content {
+  width: 100%;
+  position: relative;
+}
+
+#sidebar {
+  z-index: 1000;
+  position: fixed;
+  left: 250px;
+  width: 250px;
+  height: 100%;
+  margin-left: -250px;
+  overflow-y: auto;
+  background: #d87093;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#sidebar header {
+  background-color: #974e76;
+  padding: 28px;
+  text-align: center;
+}
+
+#sidebar header a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+}
+
+#sidebar header a:hover {
+  color: #fff;
+}
+
+#sidebar .nav a {
+  background: none;
+  color: #fff;
+  font-size: 18px;
+}
+
+#sidebar .nav li {
+  padding: 25px;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+}
+
+#sidebar .nav li:hover {
+  background-color: #974e76;
+  color: #ffc2e3;
+}
+
+#sidebar .nav a:hover {
+  background: none;
+  color: #eceff1;
+}
+
+#sidebar .nav a i {
+  margin-right: 16px;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background img {
+  height: 100vh;
+}
+
+/* Adding CSS for tag helpers validation */
+.text-danger {
+  color: #ff0033;
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+  display: block;
+}
+
+/* Fixing checkbox width in tasks */
+.single-task input[type="checkbox"] {
+  width: 20px;
+  margin-right: 10px;
+}
+
+/* Form actions for Edit/Create pages */
+.form-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.form-actions button,
+.form-actions .cancel-button {
+  flex: 1;
+}
+
+.cancel-button {
+  padding: 10px 30px;
+  background-color: #974e76;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  display: block;
+}
+
+.cancel-button:hover {
+  padding: 9px 29px;
+  border: 1px solid #974e76;
+  color: #974e76;
+  background-color: #fff;
+}
+
+/* Main content padding for dashboard */
+.main-content {
+  padding: 30px;
+}
+
+/* Making the task section responsive */
+@media (max-width: 992px) {
+  .tasks {
+    width: 100%;
+  }
+
+  #viewport {
+    padding-left: 0;
+  }
+
+  #sidebar {
+    margin-left: 0;
+  }
+
+  form {
+    width: 100%;
+    max-width: 600px;
+  }
+}

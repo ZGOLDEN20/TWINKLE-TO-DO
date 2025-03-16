@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twinkle TODO</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+          rel="stylesheet" />
+</head>
+<body>
+    <div id="viewport">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <header>
+                <a href="home.html">TWINKLE TO-DO</a>
+            </header>
+            <ul class="nav">
+                <a href="home.html">
+                <li>Dashboard</li></a>
+                <a href="tasks.html">
+                <li>Tasks</li></a>
+                <a href="profile.html">
+                <li>Profile</li></a>
+                <a href="">
+                <li>Logout</li></a>
+            </ul>
+        </div>
+        <!-- Content -->
+        <div id="content">
+            <div class="container-fluid">
+                <header>
+                    <div class="top-header">
+                        <div class="header-logo">
+                            <h1>Tasks</h1>
+                        </div>
+                        <div class="welcome-bar">
+                            <h3>Laura Loreto</h3>
+                        </div>
+                    </div>
+                </header>
+                <div class="content">
+                    <div class="logo"><h1>TWINKLE TO-DO</h1></div>
+                    <div class="form">
+                        <form action="">
+                            <h2>CREATE NEW TASK</h2>
+                            <label for="task_name">Task Name</label>
+                            <input type="text" name="task_name" id="task_name" />
+                            <label for="task_description">Describe The Task</label>
+                            <textarea name="task_description"
+                                      id="task_description"
+                                      rows="15"></textarea>
+                            <label for="deadline">Select Deadline</label>
+                            <input type="date" name="deadline" id="deadline" />
+                            <button type="submit">Create</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
