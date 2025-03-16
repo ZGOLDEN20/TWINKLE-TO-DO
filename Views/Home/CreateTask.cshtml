@@ -1,0 +1,89 @@
+﻿@model TWINKLE_TO_DO.Models.CreateTaskViewModel
+@{
+    ViewData["Title"] = "Create Task";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twinkle TODO - Create Task</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet" />
+</head>
+
+<body>
+    <div id="viewport">
+        <div id="sidebar">
+            <header>
+                <a asp-action="Dashboard" asp-controller="Home">TWINKLE TO-DO</a>
+            </header>
+            <ul class="nav">
+                <a asp-action="Dashboard" asp-controller="Home">
+                    <li>Dashboard</li>
+                </a>
+                <a asp-action="Task" asp-controller="Home">
+                    <li>Tasks</li>
+                </a>
+                <a asp-action="Profile" asp-controller="Home">
+                    <li>Profile</li>
+                </a>
+                <a asp-action="Logout" asp-controller="Home">
+                    <li>Logout</li>
+                </a>
+            </ul>
+        </div>
+        <div id="content">
+            <div class="container-fluid">
+                <header>
+                    <div class="top-header">
+                        <div class="header-logo">
+                            <h1>Tasks</h1>
+                        </div>
+                        <div class="welcome-bar">
+                            <h3>@User.Identity.Name</h3>
+                        </div>
+                    </div>
+                </header>
+                <div class="content">
+                    <div class="logo">
+                        <h1>TWINKLE TO-DO</h1>
+                    </div>
+                    <div class="form">
+                        <form asp-action="CreateTask" asp-controller="Home" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <h2>CREATE NEW TASK</h2>
+
+                            <label asp-for="TaskName">Task Name</label>
+                            <input asp-for="TaskName" type="text" />
+                            <span asp-validation-for="TaskName" class="text-danger"></span>
+
+                            <label asp-for="Description">Describe The Task</label>
+                            <textarea asp-for="Description" rows="15"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+
+                            <label asp-for="TaskDate">Select Deadline</label>
+                            <input asp-for="TaskDate" type="date" />
+                            <span asp-validation-for="TaskDate" class="text-danger"></span>
+
+                            <button type="submit">Create</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+
+</html>

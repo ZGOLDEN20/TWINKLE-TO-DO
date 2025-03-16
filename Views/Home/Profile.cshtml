@@ -1,0 +1,99 @@
+﻿@model TWINKLE_TO_DO.Models.ProfileViewModel
+@{
+    ViewData["Title"] = "Profile";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twinkle TODO - Profile</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+</head>
+
+<body>
+    <div id="viewport">
+
+        <div id="sidebar">
+            <header>
+                <a asp-action="Dashboard" asp-controller="Home">TWINKLE TO-DO</a>
+            </header>
+            <ul class="nav">
+                <a asp-action="Dashboard" asp-controller="Home">
+                    <li>Dashboard</li>
+                </a>
+                <a asp-action="Task" asp-controller="Home">
+                    <li>Tasks</li>
+                </a>
+                <a asp-action="Profile" asp-controller="Home">
+                    <li>Profile</li>
+                </a>
+                <a asp-action="Logout" asp-controller="Home">
+                    <li>Logout</li>
+                </a>
+            </ul>
+        </div>
+
+        <div id="content">
+            <div class="container-fluid">
+                <header>
+                    <div class="top-header">
+                        <div class="header-logo">
+                            <h1>Profile Settings</h1>
+                        </div>
+                        <div class="welcome-bar">
+                            <h3>@Model.Username</h3>
+                        </div>
+                    </div>
+                </header>
+
+                <div class="content">
+                    <div class="form">
+                        <form asp-action="UpdateProfile" asp-controller="Home" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <h2>User Profile</h2>
+
+                            <label asp-for="Username">Username</label>
+                            <input asp-for="Username" type="text" />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+
+                            <label asp-for="Email">Email</label>
+                            <input asp-for="Email" type="email" readonly />
+
+                            <h2>Preferences</h2>
+
+                            <label asp-for="Theme">Theme</label>
+                            <select asp-for="Theme">
+                                <option value="system">System Default</option>
+                                <option value="light">Light</option>
+                                <option value="dark">Dark</option>
+                            </select>
+
+                            <div class="checkbox-container">
+                                <input asp-for="NotificationsEnabled" type="checkbox" />
+                                <label asp-for="NotificationsEnabled">Enable Notifications</label>
+                            </div>
+
+                            <button type="submit">Save Changes</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+
+</html>

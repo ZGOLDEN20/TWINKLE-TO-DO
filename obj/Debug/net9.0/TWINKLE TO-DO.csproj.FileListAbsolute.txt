@@ -1,0 +1,353 @@
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/appsettings.Development.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/appsettings.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.staticwebassets.runtime.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.staticwebassets.endpoints.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.deps.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.runtimeconfig.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.pdb
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Humanizer.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/MySqlConnector.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.CodeDom.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.csproj.AssemblyReference.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.AssemblyInfoInputs.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.AssemblyInfo.cs
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.csproj.CoreCompileInputs.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.MvcApplicationPartsAssemblyInfo.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.RazorAssemblyInfo.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.RazorAssemblyInfo.cs
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.sourcelink.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/bundle/TWINKLE TO-DO.styles.css
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/projectbundle/TWINKLE TO-DO.bundle.scp.css
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jwwscgksta-61n19gt1b8.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/pjetm8revz-fr7q2aak1r.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/r05w9bdujk-agp80tu62r.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ek0f0tbq57-st1cbwfwo5.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/z3nz7kw1v6-unj9p35syc.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/twg5iwj2oi-5vj65cig9w.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kfq4kwaii2-q2ku51ktnl.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/tktwx4ca21-2q4vfeazbq.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/6635gh35k1-n1oizzvkh6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2ipiys85b0-o371a8zbv2.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/drq17trwad-7na4sro3qu.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/4yu3x5sdp1-jeal3x0ldm.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ax5pdk553k-f8imaxxbri.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/7mybbyxrf2-okkk44j0xs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/3fe0bszktu-0wve5yxp74.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/q7dfat2ayz-cwzlr5n8x4.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/i0gsw8de6h-npxfuf8dg6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jgqbe0imku-wmug9u23qg.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2vqx18fd7x-tey0rigmnh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ro9o082w6d-j75batdsum.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/g0hlsa4c9o-16095smhkz.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/va8fmaf1fn-vy0bq9ydhf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/und8hyyfnq-b4skse8du6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/0murr5tro0-ab1c3rmv7g.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/onw50kbusa-u3xrusw2ol.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/plhjw3kin6-56d2bn4wt9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/alaui66o18-mpyigms19s.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/f7m8mis53u-73kdqttayv.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/y1bxgk46j7-bpk8xqwxhs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/nci8dv5ojc-8inm30yfxf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/pzglrimjy7-ve6x09088i.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/lkkxgf0mzx-4gxs3k148c.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/l178gpi8zs-9b9oa1qrmt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/318yplztpq-fctod5rc9n.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/0yv0ojsmq9-l2av4jpuoj.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/b8vekzc05p-kbynt5jhd9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ovgb95uwhu-25iw1kog22.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/j0j8nngx3p-c2nslu3uf3.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/6aqxpra8y9-m39kt2b5c9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/dj9v514dht-2lgwfvgpvi.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/9jcwf779xl-um2aeqy4ik.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/4od6c2rkge-wsezl0heh6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2rb0rnuf0g-o4kw7cc6tf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/x4kfmhez0k-6ukhryfubh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/sjmo9nw5bw-zwph15dxgs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/xhxwi1xb88-u33ctipx7g.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/5o5xmc00bf-47otxtyo56.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/fo5u6f61tv-4v8eqarkd7.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/vm0rpmcgs1-l3n5xuwxn8.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/u5lj49gjno-gcjdx5jb8l.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/gz6qu315eg-35gxhxa0gh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kinyr532pq-pzqfkb6aqo.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/goisnyd0uq-b7iojwaux1.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ck3tx7g996-xzw0cte36n.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/d3ko0dhj6x-fwhahm2icz.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/23ks8ipevr-dd6z7egasc.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/a39g8rfqsu-5pze98is44.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ip81hu979v-jfsiqqwiad.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jc2r0tfym5-jw23hg02ph.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/h3bn154t9a-ninhvaq15b.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/l8206tctii-93tkbwh5ss.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/3xhnj20jn9-nuyb1cu1pl.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/fyymuyg56h-evssye3fc7.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/x6tdtbdu43-7hd2ssdcf6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kg3v0651up-6o3pfia4nw.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/bnjwmckh0a-jel9py1qdt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/bwgw5w2qpt-jel9py1qdt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.build.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.development.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.TWINKLE TO-DO.Microsoft.AspNetCore.StaticWebAssets.props
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.TWINKLE TO-DO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.build.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.pack.json
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE .38CCBA00.Up2Date
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/refint/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.pdb
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.genruntimeconfig.cache
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/ref/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/bin/Debug/net9.0/Postmark.dll
+/home/jeffjames/Documents/DotNet/TWINKLE-TO-DO/TWINKLE TO-DO/obj/Debug/net9.0/compressed/tcox9bz5qs-p77pfcdqcq.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/appsettings.Development.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/appsettings.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.staticwebassets.endpoints.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.staticwebassets.runtime.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.deps.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.runtimeconfig.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/TWINKLE TO-DO.pdb
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Humanizer.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/MySqlConnector.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/Postmark.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.CodeDom.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.csproj.AssemblyReference.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.AssemblyInfoInputs.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.AssemblyInfo.cs
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.csproj.CoreCompileInputs.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.MvcApplicationPartsAssemblyInfo.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.RazorAssemblyInfo.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.RazorAssemblyInfo.cs
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/bundle/TWINKLE TO-DO.styles.css
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/scopedcss/projectbundle/TWINKLE TO-DO.bundle.scp.css
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/tcox9bz5qs-p77pfcdqcq.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jwwscgksta-61n19gt1b8.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/pjetm8revz-fr7q2aak1r.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/r05w9bdujk-agp80tu62r.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ek0f0tbq57-st1cbwfwo5.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/z3nz7kw1v6-unj9p35syc.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/twg5iwj2oi-5vj65cig9w.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kfq4kwaii2-q2ku51ktnl.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/tktwx4ca21-2q4vfeazbq.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/6635gh35k1-n1oizzvkh6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2ipiys85b0-o371a8zbv2.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/drq17trwad-7na4sro3qu.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/4yu3x5sdp1-jeal3x0ldm.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ax5pdk553k-f8imaxxbri.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/7mybbyxrf2-okkk44j0xs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/3fe0bszktu-0wve5yxp74.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/q7dfat2ayz-cwzlr5n8x4.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/i0gsw8de6h-npxfuf8dg6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jgqbe0imku-wmug9u23qg.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2vqx18fd7x-tey0rigmnh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ro9o082w6d-j75batdsum.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/g0hlsa4c9o-16095smhkz.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/va8fmaf1fn-vy0bq9ydhf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/und8hyyfnq-b4skse8du6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/0murr5tro0-ab1c3rmv7g.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/onw50kbusa-u3xrusw2ol.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/plhjw3kin6-56d2bn4wt9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/alaui66o18-mpyigms19s.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/f7m8mis53u-73kdqttayv.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/y1bxgk46j7-bpk8xqwxhs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/nci8dv5ojc-8inm30yfxf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/pzglrimjy7-ve6x09088i.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/lkkxgf0mzx-4gxs3k148c.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/l178gpi8zs-9b9oa1qrmt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/318yplztpq-fctod5rc9n.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/0yv0ojsmq9-l2av4jpuoj.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/b8vekzc05p-kbynt5jhd9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ovgb95uwhu-25iw1kog22.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/j0j8nngx3p-c2nslu3uf3.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/6aqxpra8y9-m39kt2b5c9.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/dj9v514dht-2lgwfvgpvi.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/9jcwf779xl-um2aeqy4ik.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/4od6c2rkge-wsezl0heh6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/2rb0rnuf0g-o4kw7cc6tf.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/x4kfmhez0k-6ukhryfubh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/sjmo9nw5bw-zwph15dxgs.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/xhxwi1xb88-u33ctipx7g.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/5o5xmc00bf-47otxtyo56.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/fo5u6f61tv-4v8eqarkd7.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/vm0rpmcgs1-l3n5xuwxn8.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/u5lj49gjno-gcjdx5jb8l.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/gz6qu315eg-35gxhxa0gh.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kinyr532pq-pzqfkb6aqo.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/goisnyd0uq-b7iojwaux1.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ck3tx7g996-xzw0cte36n.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/d3ko0dhj6x-fwhahm2icz.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/23ks8ipevr-dd6z7egasc.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/a39g8rfqsu-5pze98is44.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/ip81hu979v-jfsiqqwiad.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/jc2r0tfym5-jw23hg02ph.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/h3bn154t9a-ninhvaq15b.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/l8206tctii-93tkbwh5ss.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/3xhnj20jn9-nuyb1cu1pl.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/fyymuyg56h-evssye3fc7.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/x6tdtbdu43-7hd2ssdcf6.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/kg3v0651up-6o3pfia4nw.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/bnjwmckh0a-jel9py1qdt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/compressed/bwgw5w2qpt-jel9py1qdt.gz
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.build.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.development.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.TWINKLE TO-DO.Microsoft.AspNetCore.StaticWebAssets.props
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.TWINKLE TO-DO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.build.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TWINKLE TO-DO.props
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/staticwebassets.pack.json
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE .38CCBA00.Up2Date
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/refint/TWINKLE TO-DO.dll
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.pdb
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/TWINKLE TO-DO.genruntimeconfig.cache
+/home/jeffjames/Documents/DotNet/TWINKLE TO-DO/obj/Debug/net9.0/ref/TWINKLE TO-DO.dll
