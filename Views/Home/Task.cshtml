@@ -1,0 +1,103 @@
+﻿@model List<TWINKLE_TO_DO.Models.TaskItem>
+@{
+    ViewData["Title"] = "Tasks";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twinkle TODO - Tasks</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+</head>
+
+<body>
+    <div id="viewport">
+
+        <div id="sidebar">
+            <header>
+                <a asp-action="Dashboard" asp-controller="Home">TWINKLE TO-DO</a>
+            </header>
+            <ul class="nav">
+                <a asp-action="Dashboard" asp-controller="Home">
+                    <li>Dashboard</li>
+                </a>
+                <a asp-action="Task" asp-controller="Home">
+                    <li>Tasks</li>
+                </a>
+                <a asp-action="Profile" asp-controller="Home">
+                    <li>Profile</li>
+                </a>
+                <a asp-action="Logout" asp-controller="Home">
+                    <li>Logout</li>
+                </a>
+            </ul>
+        </div>
+
+        <div id="content">
+            <div class="container-fluid">
+                <header>
+                    <div class="top-header">
+                        <div class="header-logo">
+                            <h1>Tasks</h1>
+                        </div>
+                        <div class="welcome-bar">
+                            <h3>@User.Identity.Name</h3>
+                        </div>
+                    </div>
+                </header>
+                <div class="tasks">
+                    <ul>
+                        @if (Model.Count == 0)
+                        {
+                            <li>
+                                <div class="task-card">
+                                    <p>No tasks yet! Create your first task using the button below.</p>
+                                </div>
+                            </li>
+                        }
+                        else
+                        {
+                            @foreach (var task in Model)
+                            {
+                                <li>
+                                    <div class="task-card">
+                                        <div class="single-task">
+                                            <form asp-action="CompleteTask" asp-controller="Home" asp-route-id="@task.Id"
+                                                method="post" style="display: inline; width:auto; padding: 0;">
+                                                <input type="checkbox" onchange="this.form.submit()" @(task.Status ==
+                                                    "Completed" ? "checked" : "") />
+                                        </form>
+                                        <p>@task.TaskName</p>
+                                    </div>
+
+                                        <div class="action-buttons">
+                                            <a asp-action="DeleteTask" asp-controller="Home" asp-route-id="@task.Id"><i
+                                                    class="bi bi-trash-fill"></i></a>
+                                            <a asp-action="EditTask" asp-controller="Home" asp-route-id="@task.Id">Edit</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                                }
+                        }
+                    </ul>
+                    <div class="add-task">
+                        <a asp-action="CreateTask" asp-controller="Home">
+                            <i class="bi bi-file-plus-fill"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

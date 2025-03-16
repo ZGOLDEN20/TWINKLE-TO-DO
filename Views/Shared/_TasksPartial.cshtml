@@ -1,0 +1,43 @@
+@model List<TWINKLE_TO_DO.Models.TaskItem>
+
+<div class="tasks">
+    <div class="headline">
+        <h2>Tasks</h2>
+    </div>
+    <ul>
+        @if (Model.Count == 0)
+        {
+            <li>
+                <div class="task-card">
+                    <p>No tasks yet! Create your first task using the button below.</p>
+                </div>
+            </li>
+        }
+        else
+        {
+            @foreach (var task in Model)
+            {
+                <li>
+                    <div class="task-card">
+                        <div class="single-task">
+                            <form asp-action="CompleteTask" asp-controller="Home" asp-route-id="@task.Id" method="post" style="display: inline;  width:auto; padding: 0;">
+                                <input type="checkbox" onchange="this.form.submit()" @(task.Status == "Completed" ? "checked" : "") />
+                            </form>
+                            <p>@task.TaskName</p>
+                        </div>
+
+                        <div class="action-buttons">
+                            <a asp-action="DeleteTask" asp-controller="Home" asp-route-id="@task.Id"><i class="bi bi-trash-fill"></i></a>
+                            <a asp-action="EditTask" asp-controller="Home" asp-route-id="@task.Id">Edit</a>
+                        </div>
+                    </div>
+                </li>
+            }
+        }
+    </ul>
+    <div class="add-task">
+        <a asp-action="CreateTask" asp-controller="Home">
+            <i class="bi bi-file-plus-fill"></i>
+        </a>
+    </div>
+</div>

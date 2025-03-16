@@ -1,0 +1,56 @@
+﻿@model TWINKLE_TO_DO.Models.DashboardViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "_UserLayout";
+}
+
+<div class="search-box">
+    <form class="search-container">
+        <input type="text" id="search-bar" placeholder="What can I help you with today?" />
+        <a href="#"><i class="bi bi-search"></i></a>
+    </form>
+</div>
+
+<div class="tasks">
+    <div class="headline">
+        <h2>Ongoing Tasks</h2>
+    </div>
+    <ul>
+        @if (Model.Tasks.Count == 0)
+        {
+                <li>
+                    <div class="task-card">
+                        <p>No tasks yet! Create your first task using the button below.</p>
+                    </div>
+                </li>
+        }
+        else
+        {
+                @foreach (var task in Model.Tasks)
+                {
+                        <li>
+                            <div class="task-card">
+                                <div class="single-task">
+                                    <form asp-action="CompleteTask" asp-controller="Home" asp-route-id="@task.Id" method="post"
+                                        style="display: inline; width:auto; padding: 0;">
+                                        <input type="checkbox" onchange="this.form.submit()" />
+                                    </form>
+                                    <p>@task.TaskName</p>
+                                </div>
+
+                                <div class="action-buttons">
+                                    <a asp-action="DeleteTask" asp-controller="Home" asp-route-id="@task.Id"><i
+                                            class="bi bi-trash-fill"></i></a>
+                                    <a asp-action="EditTask" asp-controller="Home" asp-route-id="@task.Id">Edit</a>
+                                </div>
+                            </div>
+                        </li>
+                }
+        }
+    </ul>
+    <div class="add-task">
+        <a asp-action="CreateTask" asp-controller="Home">
+            <i class="bi bi-file-plus-fill"></i>
+        </a>
+    </div>
+</div>

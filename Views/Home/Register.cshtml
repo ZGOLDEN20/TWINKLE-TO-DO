@@ -1,0 +1,32 @@
+﻿@model TWINKLE_TO_DO.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    ViewData["BodyClass"] = "register";
+    Layout = "_AuthLayout";
+}
+
+<form asp-action="Register" asp-controller="Home" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <label asp-for="Username">Username</label>
+    <input asp-for="Username" type="text" />
+    <span asp-validation-for="Username" class="text-danger"></span>
+
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" type="email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <label asp-for="Password">Password</label>
+    <input asp-for="Password" type="password" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+
+    <label asp-for="ConfirmPassword">Confirm Password</label>
+    <input asp-for="ConfirmPassword" type="password" />
+    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+
+    <button type="submit">Register</button>
+</form>
+
+<div class="sign_up">
+    <p>Already have an account? <a asp-action="Login" asp-controller="Home">Login</a></p>
+</div>
